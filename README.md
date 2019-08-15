@@ -1,0 +1,2 @@
+# LeeNN
+my first homework
